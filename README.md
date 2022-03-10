@@ -2,9 +2,11 @@
 
 This JavaScript/HTML5 implementation makes a <b>global sequence alignment</b> between two strings, namely between a sequence s0='TGAATTCAGTTA' and s1='TGGATCGA'. In fact, this simple implementation makes an alignment between any two strings. All symbols from UTF-8 are accepted by this algorithm. For an implementation of <b>local sequence alignment</b> please see see [this repository](https://github.com/Gagniuc/Local-sequence-alignment-in-JS).
 
-# Live demo
+# Live demo 
 
 https://gagniuc.github.io/Global-Sequence-Alignment-in-JS/
+
+# Screenshot
 
 ![screenshot](https://github.com/Gagniuc/Global-Sequence-Alignment-in-JS/blob/main/global%20sequence%20alignment.png?raw=true)
 
