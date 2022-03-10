@@ -1,6 +1,6 @@
 # Global Sequence Alignment in JS
 
-This JavaScript/HTML5 implementation makes a <b>global sequence alignment</b> between two strings, namely between a sequence s0='TGAATTCAGTTA' and s1='TGGATCGA'. In fact, this simple implementation makes an alignment between any two strings. All symbols from UTF-8 are accepted by this algorithm. For an implementation of <b>local sequence alignment</b> please see see [this repository](https://github.com/Gagniuc/Local-sequence-alignment-in-JS).
+This JavaScript/HTML5 implementation makes a <b>global sequence alignment</b> between two strings, namely between a sequence <kbd>s0='TGAATTCAGTTA'</kbd> and <kbd>s1='TGGATCGA'</kbd>. In fact, this simple implementation makes an alignment between any two strings. All symbols from <kbd>UTF-8</kbd> are accepted by this algorithm. For an implementation of <b>local sequence alignment</b> please see see [this repository](https://github.com/Gagniuc/Local-sequence-alignment-in-JS).
 
 # Live demo 
 
