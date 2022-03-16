@@ -8,7 +8,7 @@ https://gagniuc.github.io/Global-Sequence-Alignment-in-JS/
 
 # Screenshot
 
-![screenshot](https://github.com/Gagniuc/Global-Sequence-Alignment-in-JS/blob/main/global%20sequence%20alignment.png?raw=true)
+![screenshot](https://github.com/Gagniuc/Global-sequence-alignment-in-JS/blob/main/img/global%20sequence%20alignment.png?raw=true)
 
 # References
 
