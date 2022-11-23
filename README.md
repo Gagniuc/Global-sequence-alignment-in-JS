@@ -4,7 +4,7 @@ This JavaScript/HTML5 implementation makes a <b>global sequence alignment</b> be
 
 # Live demo 
 
-https://gagniuc.github.io/Global-Sequence-Alignment-in-JS/
+https://gagniuc.github.io/Global-sequence-alignment-in-JS/
 
 # Screenshot
 
